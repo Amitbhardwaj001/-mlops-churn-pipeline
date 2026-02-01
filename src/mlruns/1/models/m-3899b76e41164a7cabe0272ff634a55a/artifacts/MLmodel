@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/acer/OneDrive/Desktop/mlops/src/mlruns/1/models/m-3899b76e41164a7cabe0272ff634a55a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-3899b76e41164a7cabe0272ff634a55a
+model_size_bytes: 31392351
+model_uuid: m-3899b76e41164a7cabe0272ff634a55a
+prompts: null
+run_id: 4a26d331e87b4a1d974d8b67a09bec70
+utc_time_created: '2026-01-31 08:02:35.106632'

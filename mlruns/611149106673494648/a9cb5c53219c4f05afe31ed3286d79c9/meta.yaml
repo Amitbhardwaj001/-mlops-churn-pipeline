@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/acer/OneDrive/Desktop/mlops/src/../mlruns/611149106673494648/a9cb5c53219c4f05afe31ed3286d79c9/artifacts
+end_time: 1769944880486
+entry_point_name: ''
+experiment_id: '611149106673494648'
+lifecycle_stage: active
+run_id: a9cb5c53219c4f05afe31ed3286d79c9
+run_name: aged-fish-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769944857537
+status: 3
+tags: []
+user_id: acer

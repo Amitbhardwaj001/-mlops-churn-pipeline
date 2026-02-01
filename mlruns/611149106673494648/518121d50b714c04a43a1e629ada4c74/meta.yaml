@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/acer/OneDrive/Desktop/mlops/src/../mlruns/611149106673494648/518121d50b714c04a43a1e629ada4c74/artifacts
+end_time: 1769944133448
+entry_point_name: ''
+experiment_id: '611149106673494648'
+lifecycle_stage: active
+run_id: 518121d50b714c04a43a1e629ada4c74
+run_name: painted-whale-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769944111447
+status: 3
+tags: []
+user_id: acer

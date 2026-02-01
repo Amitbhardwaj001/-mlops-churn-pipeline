@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/acer/OneDrive/Desktop/mlops/src/../mlruns/611149106673494648/models/m-12f93ea06a9945dea5fc79aa237c4631/artifacts
+creation_timestamp: 1769944127488
+experiment_id: '611149106673494648'
+last_updated_timestamp: 1769944133391
+model_id: m-12f93ea06a9945dea5fc79aa237c4631
+model_type: null
+name: model
+source_run_id: 518121d50b714c04a43a1e629ada4c74
+status: 2
+status_message: null
